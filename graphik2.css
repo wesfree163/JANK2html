@@ -1,0 +1,22 @@
+.overlap{
+    position: relative;
+    text-align: center;
+}
+
+.geass{
+    width: 110vw;
+    position: absolute;
+    text-align: center;
+    transform: translate(-49%, 10%);
+}
+
+
+
+.load-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    font-size: 58px;
+    top: 13%;
+    left: 60%;
+    transform: translate(0%, 75%);
+}
