@@ -20,3 +20,10 @@
     left: 60%;
     transform: translate(0%, 75%);
 }
+
+.rook {
+    /* width: 110vw; */
+    position: absolute;
+    text-align: center;
+    transform: translate(-207%, 100%);
+}
